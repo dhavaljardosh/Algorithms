@@ -1,4 +1,9 @@
-# Algorithms
+# Algorithms in Javascript ES6
 👨🏻‍💻 Algorithms in Javascript
 
-<h3>Algorithms in Javascript</h3>
+- Stacks
+- Queues
+- Trees
+- Linked List
+- Bit Manipulation
+- Leetcode Problems
